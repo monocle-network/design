@@ -29,4 +29,4 @@ When using the assets, follow the brand guidelines.
 
 Designers wanting to contribute can see what has been done, what the guidelines are, and what might be needed here.
 
-To get started, read [Get Started](https://monoclenetwork.org/get-started) and then reach out to existing contributors in Monocle SimpleX spaces.
+To get started, read [Get Involved](https://monoclenetwork.org/get-involved) and then reach out to existing contributors in Monocle SimpleX spaces.
