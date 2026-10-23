@@ -16,6 +16,16 @@ This repository is the home of Monocle Network's visual assets, brand elements, 
 
 Some assets also live elsewhere: website and wiki design assets are kept in their respective repositories, and application assets (logo, loading screen, icon design) live in the [monocle](https://github.com/monocle-network/monocle) repository. Where assets are shared across projects, they may appear here too.
 
+## License
+
+Monocle Network designs are released under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://github.com/monocle-network/design/blob/main/license.md).
+
+## Attribution
+
+Monocle Network designs requires that attribution be given if you wish to use the designs. To properly attribute images, you must follow the TASL method: Title, Author, Source, and License.
+
+This should be done for each design used.
+
 ## Using the assets
 
 Anyone is welcome to use these assets:
@@ -23,7 +33,7 @@ Anyone is welcome to use these assets:
 - **Community contributors** - posting on social media, setting up a new account, creating slides for a presentation, or making a press release
 - **Third parties** - websites and publications referencing Monocle Network, for example a review wanting a logo
 
-When using the assets, follow the brand guidelines.
+When using the assets, follow the brand guidelines and attribution requirements.
 
 ## Contributing design work
 
