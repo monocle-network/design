@@ -16,6 +16,13 @@ This repository is the home of Monocle Network's visual assets, brand elements, 
 
 Some assets also live elsewhere: website and wiki design assets are kept in their respective repositories, and application assets (logo, loading screen, icon design) live in the [monocle](https://github.com/monocle-network/monocle) repository. Where assets are shared across projects, they may appear here too.
 
+## Design documentation
+
+- [COLLABORATION.md](https://github.com/monocle-network/design/blob/main/COLLABORATION.md) - common types of design collaborations and how they work
+- [DESIGN_PRINCIPLES.md](https://github.com/monocle-network/design/blob/main/DESIGN_PRINCIPLES.md) - the key principles to follow when designing for Monocle Network
+- [DESIGN_PROJECTS.md](https://github.com/monocle-network/design/blob/main/DESIGN_PROJECTS.md) - how design projects are organized: the project life cycle, from idea to completion
+- [OPEN_DESIGN.md](https://github.com/monocle-network/design/blob/main/OPEN_DESIGN.md) - what it means to participate in open design on Monocle Network
+
 ## License
 
 Monocle Network designs are released under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://github.com/monocle-network/design/blob/main/license.md).
@@ -39,4 +46,4 @@ When using the assets, follow the brand guidelines and attribution requirements.
 
 Designers wanting to contribute can see what has been done, what the guidelines are, and what might be needed here.
 
-To get started, read [Get Involved](https://monoclenetwork.org/get-involved) and then reach out to existing contributors in Monocle SimpleX spaces.
+To get started, read [COLLABORATION.md](https://github.com/monocle-network/design/blob/main/COLLABORATION.md), then read [Get Involved](https://monoclenetwork.org/get-involved) and reach out to existing contributors in Monocle SimpleX spaces.
