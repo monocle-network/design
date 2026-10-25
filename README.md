@@ -40,7 +40,7 @@ Anyone is welcome to use these assets:
 - **Community contributors** - posting on social media, setting up a new account, creating slides for a presentation, or making a press release
 - **Third parties** - websites and publications referencing Monocle Network, for example a review wanting a logo
 
-When using the assets, follow the brand guidelines and attribution requirements.
+When using the assets, follow the [brand guidelines](https://github.com/monocle-network/design/blob/main/assets/brand-guidelines/monocle-brand-guidelines.jpg) and attribution requirements.
 
 ## Contributing design work
 
